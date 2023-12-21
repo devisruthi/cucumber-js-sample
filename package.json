@@ -1,0 +1,15 @@
+{
+  "name": "cucumber-js-sample",
+  "version": "1.0.0",
+  "description": "Sample Cucumber JS project",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js -p default"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^10.0.1",
+    "assert": "^2.0.0",
+    "request": "^2.88.2"
+  },
+  "author": "Sruthi Devi",
+  "license": "ISC"
+}
